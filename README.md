@@ -25,7 +25,6 @@
 <a href="https://linkedin.com/in/jozvahedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jozvahedi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7946825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7946825" height="30" width="40" /></a>
 <a href="https://instagram.com/jozvahedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jozvahedi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jozvahedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-sheikhzadeh" height="30" width="40" /></a>
 <a href="https://t.me/jozvahedi" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="telegram" height="30" width="40" /></a>
 </p>
 
@@ -36,5 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jozvahedi&show_icons=true&locale=en" alt="jozvahedi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jozvahedi&" alt="jozvahedi" /></p>
+ 
 

@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jozvahedi&label=Profile%20views&color=0e75b6&style=flat" alt="jozvahedi" /> </p>
 
 
-- ًںI am currently learning **Golang Deep Learning and LLM Learning**
+- I’m currently learning **Golang Deep Learning and LLM Learning**
 
-- ًںAll of my projects are available at [https://github.com/jozvahedi](https://github.com/jozvahedi)
+- All of my projects are available at [https://github.com/jozvahedi](https://github.com/jozvahedi)
 
-- ًںAsk me about **Php and Golang**
+- Ask me about **Php and Golang**
 
-- ًںHow to reach me **jozvahedi@gmail.com**
+- How to reach me **jozvahedi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

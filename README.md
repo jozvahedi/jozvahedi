@@ -1,19 +1,19 @@
 ![logo](https://github.com/jozvahedi/jozvahedi/blob/main/Web.jpg)
-<h1 align="center">Hi ًں‘‹, I'm Mohammad Reza</h1>
+<h1 align="center">Hi  , I'm Mohammad Reza</h1>
 <h3 align="center">A passionate backend and software developer from Iran</h3>
 
-<img align="right" alt="jozvahedi" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="jozvahedi" width = "400" src ="https://github.com/jozvahedi/jozvahedi/blob/main/focus.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jozvahedi&label=Profile%20views&color=0e75b6&style=flat" alt="jozvahedi" /> </p>
 
 
-- ًںŒ± Iâ€™m currently learning **Golang Deep Learning and LLM Learning**
+- ًںI am currently learning **Golang Deep Learning and LLM Learning**
 
-- ًں‘¨â€چًں’» All of my projects are available at [https://github.com/jozvahedi](https://github.com/jozvahedi)
+- ًںAll of my projects are available at [https://github.com/jozvahedi](https://github.com/jozvahedi)
 
-- ًں’¬ Ask me about **Php and Golang**
+- ًںAsk me about **Php and Golang**
 
-- ًں“« How to reach me **jozvahedi@gmail.com**
+- ًںHow to reach me **jozvahedi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,10 +63,10 @@
   
  </p>
 
-<img align="right" alt="sheikh python" width = "400" src ="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif">
+ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jozvahedi&show_icons=true&locale=en&layout=compact" alt="jozvahedi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jozvahedi&show_icons=true&locale=en" alt="jozvahedi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jozvahedi&" alt="jozvahedi" /></p>
+ 

@@ -1,11 +1,11 @@
 ![logo](https://github.com/jozvahedi/jozvahedi/blob/main/Web.jpg)
 <h1 align="center">Hi 👋, I'm Mohammad Reza Jozvahedi</h1>
 <h3 align="center">A passionate Backend developer from Iran</h3>
-<img align="right" alt="jozvahedi" width = "400" src ="https://github.com/jozvahedi/jozvahedi/blob/main/focus.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jozvahedi&label=Profile%20views&color=0e75b6&style=flat" alt="jozvahedi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jozvahedi" alt="jozvahedi" /></a> </p>
-
+<img align="right" alt="jozvahedi" width = "400" src ="https://github.com/jozvahedi/jozvahedi/blob/main/focus.gif">
 - 🌱 I’m currently learning **Golang Deep Learning and LLM Learning**
 
 - 👯 I’m looking to collaborate on **load balancer**
